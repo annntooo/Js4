@@ -1,0 +1,20 @@
+.titolo{
+    font-size: 60px;
+}
+.sottoTitolo{
+    font-size: 20px;
+    color: rgba(106, 70, 8, 0.671);
+}
+.bordi{
+    border-color: yellow;
+}
+.contenitore h3{
+    color: blue;
+    font-size: 40px;
+}
+img {
+    width: 100%;
+}
+div{
+    height: 100;
+}
